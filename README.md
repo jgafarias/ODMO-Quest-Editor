@@ -1,5 +1,7 @@
 # XML Quest Editor
 
+[Tutorial pt-BR](https://github.com/jgafarias/ODMO-Quest-Editor/blob/main/README-PTBR.md)
+
 This is a quest editor for XML files. It provides a graphical interface to view, edit, and manage quest data simply and intuitively, making it ideal for projects that use the `Quest.xml` structure.
 
 The editor is designed to be lightweight and efficient, simplifying the management of game content in the `Quest.xml` file.
