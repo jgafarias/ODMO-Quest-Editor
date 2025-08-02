@@ -1,0 +1,15 @@
+PT-BR:
+
+1 - Após utilizar o BIN - XML CONVERTER, pegue o arquivo Quest.XML e coloque na pasta XML do Quest Editor.
+2 - Execute o Quest Editor.exe.
+3 - Modifique a quest que deseja, clique no icone verde para salvar alterações a quest irá fechar e após isso salve o arquivo XML no botão amarelo no topo.
+4 - Pegue o Arquivo Quest.XML e converta para .bin utilizando o BIN - XML CONVERTER, utilize o DB Importer para salvar alterações no banco de dados.
+5 - Gere o novo Pack 03 e coloque na pasta data do client utilizado.
+
+English:
+
+1 - After using the BIN - XML CONVERTER, take the Quest.XML file and place it in the XML folder of the Quest Editor.
+2 - Run Quest Editor.exe.
+3 - Modify the desired quest. Click the green icon to save the changes to the quest (it will then close). After that, save the XML file using the yellow button at the top.
+4 - Move the Quest.XML file and convert it to a .bin file using the BIN - XML CONVERTER. Use DB Importer to save the changes to the database.
+5 - Generate the new Pack 03 and place it in the data folder of the client you are using.
