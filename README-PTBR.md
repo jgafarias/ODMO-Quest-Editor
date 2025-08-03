@@ -4,7 +4,7 @@ Este é um editor de quests para arquivos XML, criado com a biblioteca Flet. Ele
 
 O editor é projetado para ser leve e eficiente, simplificando o gerenciamento do conteúdo do jogo no arquivo `Quest.xml`.
 
-[🔗 Ver demonstração em vídeo](https://github.com/user-attachments/assets/59574f58-25fa-4960-a39f-4f48d9e065b1)
+[🔗 View video demonstration](https://github.com/user-attachments/assets/763422e1-c3c9-456e-85cc-84b5538c3f6a)
 
 ---
 
