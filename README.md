@@ -1,5 +1,7 @@
 # XML Quest Editor
 
+[PT-BR](https://github.com/jgafarias/ODMO-Quest-Editor/blob/main/README-PTBR.md)
+
 This is an XML quest editor created with the Flet library. It offers a graphical interface to view, edit, and manage quest data in a simple and intuitive way, making it ideal for projects that use the `Quest.xml` file structure.
 
 The editor is designed to be lightweight and efficient, simplifying the management of game content in the `Quest.xml` file.
